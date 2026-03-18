@@ -1,7 +1,7 @@
 ## Opa!! Eu sou o Vini Romero.
 
--  Atualmente trabalho na área de Front-End
--  Estou estudando Data Science e TypeScript
+-  Expêriencia na área de Front-End
+-  Estou estudando Data Science
 
  ### 🤖 Linguagens e Tecnologias
 
